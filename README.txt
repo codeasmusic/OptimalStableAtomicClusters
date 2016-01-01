@@ -7,7 +7,7 @@ usages:
 >> Draw(X, Y, Z); %draw graph.
 
 
-Results£º
+Results:
 
 >> [X, Y, Z] = StableAtoms(26);
 >> CostFunc(X, Y, Z);
